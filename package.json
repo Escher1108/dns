@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Escher1108/dns/issues"
   },
-  "homepage": "https://github.com/Escher1108/dns#readme"
+  "homepage": "https://github.com/Escher1108/dns#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "http-proxy-middleware": "^2.0.3"
+  }
 }

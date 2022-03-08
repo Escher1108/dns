@@ -3,7 +3,7 @@ const { createProxyMiddleware } = require('http-proxy-middleware');
 const app = express();
 
 
-const url = 'https://dns.nextdns.io/ee47c8/Escher-iphone';
+const url = 'https://ee47c8.dns.nextdns.io';
 const PORT = process.env.PORT || 5000;
 // const url = 'https://www.baidu.com'
 
