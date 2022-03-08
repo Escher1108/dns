@@ -1,0 +1,21 @@
+{
+  "name": "dns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Escher1108/dns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Escher1108/dns/issues"
+  },
+  "homepage": "https://github.com/Escher1108/dns#readme"
+}
