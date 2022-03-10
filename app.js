@@ -1,10 +1,19 @@
+/*
+ * @Author: Escher1108
+ * @Website: https://jkgblog.com
+ * @Date: 2022-03-08 22:26:10
+ * @LastEditTime: 2022-03-10 22:33:33
+ * @LastEditors: Do not edit
+ * @FilePath: \dns\app.js
+ * @Description: 耶斯莫拉
+ */
 const express = require('express');
 const { createProxyMiddleware } = require('http-proxy-middleware');
 const app = express();
 
 
-const url = 'https://ee47c8.dns.nextdns.io';
-const PORT = process.env.PORT || 5000;
+const url = 'https://dns.nextdns.io';
+const PORT = process.env.PORT || 5001;
 // const url = 'https://www.baidu.com'
 
 // 配置
